@@ -8,8 +8,8 @@
 </p>
 
 - 🔭 Currently building a **DeepSeek clone (MERN Stack project)**  
-- 🌱 Currently learning **React** deeply and improving Java + DSA skills  
-- 💬 Ask me about **Java, MERN stack, Python, or Linux basics**  
+- 🌱 Currently learning **React** deeply and improving C++ DSA skills  
+- 💬 Ask me about **Java, C++, Python, or Linux basics**  
 - ⚡ Fun fact: I come from a commerce background but code like a developer 😄  
 - 📫 Reach me at: **sameer02032005@gmail.com**
 
